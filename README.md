@@ -1,5 +1,5 @@
 # FS25_ExtendedMeridianSilo v1.0.0.0
-Mod for Farming Simulator 22 
+Mod for Farming Simulator 25 
 
 #### Description
 This silos can be filled with Fertilizer, Lime, liquid Fertilizer and Herbicide.
