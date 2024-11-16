@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+	<author>johnwayne1930</author>
+	<version>1.0.0.0</version>
+	
+	<title>
+		<en>Extended Meridian Silo</en>
+		<de>Erweiterte Meridian Silos</de>
+	</title>
+	
+	<description>
+		<en><![CDATA[
+This silos can be filled with Fertilizer, Lime, liquid Fertilizer and Herbicide.
+
+MultiSol-60
+Filltype: Fertilizer, Lime
+Price: 23,500€
+Dayly upkeep: 10€ / day
+Capacity: 60,000L
+
+MultiLiq-173
+Filltype: liquid Fertilizer, Herbicide
+Price: 46,500€
+Dayly upkeep: 100€ / day
+Capacity: 173,500L
+]]></en>
+		<de><![CDATA[
+Diese Silos können mit Mineraldünger, Kalk, Flüssigdünger und Herbizid aufgefüllt werden.
+
+MultiSol-60
+Fülltyp: Mineraldünger, Kalk
+Preis: 23.500€
+Tägliche Unterhaltskosten: 10€ / Tag
+Kapazität: 60.000L
+
+MultiLiq-173
+Fülltyp: Flüssigdünger, Herbizid
+Preis: 46.500€
+Tägliche Unterhaltskosten: 100€ / Tag
+Kapazität: 173.500L
+]]></de>
+	</description>
+
+	<l10n>
+		<text name="shopItem_meridianLimeTank">
+			<en>MultiSol-60</en>
+			<de>MultiSol-60</de>
+		</text>
+		<text name="shopItem_liquidHerbicideTank">
+			<en>MultiLiq-173</en>
+			<de>MultiLiq-173</de>
+		</text>
+		<text name="function_fillableLimeTank">
+			<en>This silo can be filled with Fertilizer and Lime.</en>
+			<de>Dieses Silo kann mit Mineraldünger und Kalk aufgefüllt werden.</de>
+		</text> 
+		<text name="function_fillableLiquidHerbicidTank">
+			<en>This silo can be filled with liquid Fertilizer and Herbicide.</en>
+			<de>Dieses Silo kann mit Flüssigdünger und Herbizid aufgefüllt werden.</de>
+		</text> 
+	</l10n>
+	
+	<iconFilename>icon_ExtendedMeridianSilo.png</iconFilename>
+	<multiplayer supported="true"/>
+	
+	 <storeItems>
+		<storeItem xmlFilename="fertilizerLimeBin.xml"/>
+		<storeItem xmlFilename="liquidFertilizerHerbizideTank.xml"/>
+	</storeItems>
+</modDesc>
