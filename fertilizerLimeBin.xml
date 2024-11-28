@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable type="silo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/placeable.xsd">
     <storeData>
-        <name>$l10n_shopItem_meridianLimeTank</name>
+        <name>$l10n_shopItem_meridianFertilizerLimeTank</name>
         <functions>
-            <function>$l10n_function_fillableLimeTank</function>
+            <function>$l10n_function_fillableFertilizerLimeTank</function>
         </functions>
         <image>$data/placeables/meridian/fertilizerBins1620/store_fertilizerBins1620.png</image>
         <price>23500</price>
@@ -18,6 +18,12 @@
             <category>buildings</category>
             <tab>containers</tab>
         </brush>
+																 
+															  
+													   
+																			
+																		  
+											  
     </storeData>
 
     <base>

@@ -42,19 +42,19 @@ Kapazität: 173.500L
 	</description>
 
 	<l10n>
-		<text name="shopItem_meridianLimeTank">
+		<text name="shopItem_meridianFertilizerLimeTank">
 			<en>MultiSol-60</en>
 			<de>MultiSol-60</de>
 		</text>
-		<text name="shopItem_liquidHerbicideTank">
+		<text name="shopItem_liquidFertilizerHerbicideTank">
 			<en>MultiLiq-173</en>
 			<de>MultiLiq-173</de>
 		</text>
-		<text name="function_fillableLimeTank">
+		<text name="function_fillableFertilizerLimeTank">
 			<en>This silo can be filled with Fertilizer and Lime.</en>
 			<de>Dieses Silo kann mit Mineraldünger und Kalk aufgefüllt werden.</de>
 		</text> 
-		<text name="function_fillableLiquidHerbicidTank">
+		<text name="function_fillableLiquidFertilizerHerbicidTank">
 			<en>This silo can be filled with liquid Fertilizer and Herbicide.</en>
 			<de>Dieses Silo kann mit Flüssigdünger und Herbizid aufgefüllt werden.</de>
 		</text> 
